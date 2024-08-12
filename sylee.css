@@ -20,6 +20,8 @@ body {
 
 .cabecalho-imagem {
 width: 100%;
+heigt:90%;
+border-radius: 50%;
 }
 
 .cabecalho-lista-item{
